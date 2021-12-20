@@ -1,4 +1,4 @@
 {
-    "authUrl": "https://dev.manager.ece.iiasa.ac.at/legacy",
+    "authUrl": "https://api.dev.manager.ece.iiasa.ac.at/legacy",
     "database": "IXSE_SSM_TEST"
 }
